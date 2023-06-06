@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Helvetica Neue LT GEO 55 Roman';
+    src: url('../fonts/HelveticaNeueLTGEO-55Roman.woff') format('woff'),
+        url('../fonts/HelveticaNeueLTGEO-55Roman.woff2') format('woff2'),
+        url('../fonts/HELVETICANEUELTGEO-55ROMAN.TTF') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LT GEO 45 Lights';
+    src: url('../fonts/HelveticaNeueLTGEO-45Lights.woff') format('woff'),
+        url('../fonts/HelveticaNeueLTGEO-45Lights.woff2') format('woff2'),
+        url('../fonts/HELVETICANEUELTGEO-45LIGHTS.TTF') format('ttf');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
